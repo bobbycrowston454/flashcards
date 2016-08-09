@@ -10,3 +10,34 @@
 #variablesdefinition {
   display: none;
 }
+
+.jscript {
+  border: solid;
+  border width: 3px;
+  margin-left: 15px;
+  margin-bottom: 5px;
+  background-color: orange;
+  margin-right: 15px;
+}
+
+.vari {
+  border: solid;
+  border width: 3px;
+  margin-left: 15px;
+  background-color: orange;
+  margin-bottom: 5px;
+  margin-right: 15px;
+}
+
+.opera {
+  border: solid;
+  border width: 3px;
+  margin-left: 15px;
+  background-color: orange;
+  margin-bottom: 5px;
+  margin-right: 15px;
+}
+
+body {
+  background-color: #99ffcc;
+}
